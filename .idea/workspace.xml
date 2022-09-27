@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d56efb3d-7010-4e56-96aa-d838915640b3" name="Changes" comment="" />
+    <list default="true" id="d56efb3d-7010-4e56-96aa-d838915640b3" name="Changes" comment="rectangles">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,8 +65,23 @@
       <option name="presentableId" value="Default" />
       <updated>1664236048227</updated>
       <workItem from="1664236051919" duration="92000" />
-      <workItem from="1664236147893" duration="1218000" />
+      <workItem from="1664236147893" duration="1588000" />
     </task>
+    <task id="LOCAL-00001" summary="rectangles">
+      <created>1664237381318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664237381318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rectangles">
+      <created>1664237688512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664237688512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +98,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rectangles" />
+    <option name="LAST_COMMIT_MESSAGE" value="rectangles" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Week_3_Final_Part$main.coverage" NAME="main Coverage Results" MODIFIED="1664237297390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Week_3_Final_Part$main.coverage" NAME="main Coverage Results" MODIFIED="1664237738842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

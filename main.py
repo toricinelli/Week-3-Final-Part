@@ -11,6 +11,7 @@ arcade.draw_xywh_rectangle_outline(10, 10, 380, 250, arcade.color.EARTH_YELLOW, 
 arcade.draw_xywh_rectangle_filled(405, 10, 150, 100, arcade.color.BLUE)
 arcade.draw_circle_filled(100, 800, 50, arcade.color.LAVA)
 arcade.draw_circle_outline(100,800, 75, arcade.color.BEAVER, 6)
+arcade.draw_circle_outline(100, 800, 100, arcade.color.BRIGHT_UBE, 6)
 arcade.finish_render()
 arcade.run()
 
